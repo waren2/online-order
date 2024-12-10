@@ -1,0 +1,184 @@
+*{
+    margin: 0px;
+
+    color: #000;
+}
+.container{
+    height: 100000px;
+    width: 70%;
+    background-color:dark royal;
+    margin-left: 200px;
+   
+}
+.container h1{
+    margin-left: 400px;
+    text-transform: uppercase;
+    color: rgb(66, 34, 139);
+    margin: top 200px;
+    padding-top: 30px;
+}
+.container p{
+    margin-left: 400px;
+    font-weight: bolder;
+    font-style: oblique;
+   font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:red;
+    font-size: 16px;
+    background-color:white;
+    width: 18.3%;
+    height: 44px;
+    padding-left: 35px;
+    ;
+    border-radius: 6px;
+    padding-top: 10px;
+    margin-top: 2px;}
+    .container h3{
+        padding-left: 20px;
+        color: blue;
+        margin-top: 40px;
+        font-style: inherit;
+        font-size: 25px;
+        text-wrap:break-down;
+        margin-bottom: 1px;
+        padding-block: 16px;
+        
+    }
+    h3::first-letter{
+        text-transform: uppercase;
+        font-family: pablic 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    #assets{
+        background-color:saddlebrown;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        font-weight: light;
+        height: 27px;
+
+    }
+    .container label{
+        font-size: 25px;
+        flex-direction: column;
+        transform: 0.8;
+        padding-left: 5px;
+       
+        
+
+       
+        
+    }
+     input::placeholder{
+        font-size: 11px;
+        padding-left: 7px;
+    }
+    .container input{
+        width:21% ;
+        height: 21px;
+        border-radius: 5px;
+        background-color: khaki;
+    }
+    .container h4{
+        padding-left: 20px;
+        color: blue;
+       font-size: 25px;
+       margin-top: 20px;
+       padding-block: 15px;
+
+    }
+    h4::first-letter{
+        text-transform: uppercase;
+        font-weight: bold;
+    }
+    .container h5{
+        padding-left: 20px;
+        color: blue;
+       font-size: 25px;
+       margin-top: 20px; 
+       padding-block: 15px; 
+
+    }
+    h5::first-letter{
+        text-transform: uppercase;
+        font-weight: bold;  
+    }
+    .order label{
+       font-display: 25px;
+       display: block;
+       
+
+
+    }
+    .order input{
+        padding-block: 5px;
+        height: 25px;
+        width: 35%;
+        margin-left: 10px;
+    }
+    button:hover{
+        color: darkgoldenrod;
+    }
+    button{
+        height:25px ;
+        padding-block: 0px;
+    }
+    #asset label{
+        margin-left: 3px;
+        
+
+    }
+    #asset input{
+        padding-block: 5px;
+        width: 70%;
+        margin-left: 20px;
+        margin-top: 10px;
+    }
+    #asset label{
+        margin-top: 10px;
+        font-weight: bolder;
+    }
+    label::first-letter{
+        text-transform: uppercase;
+    }
+    td::first-letter{
+        text-transform: uppercase;
+        font-size: 1em;
+    }
+    th::first-letter{
+        text-transform: uppercase;
+        font-size: 1em;
+    }
+    #asset th{
+        margin-top: 20px;
+    }
+    h6{
+        padding-left: 20px;
+        color: blue;
+       font-size: 25px;
+       margin-top: 20px;  
+    }
+    #accounts p{
+        margin-bottom: 6px;
+        margin-left: 10px;
+        display: -webkit-flex;
+        padding-block: 23px;
+    
+    }
+    #logo1{
+       margin-left: 400px;
+       width: 21.87%;
+       height: 85px;
+       margin-top: 17px;
+       border-radius: 5px;
+       margin-top: 0px;
+       border-color: red;
+       border: 2em;
+    }
+
+
+
+    
+
+
+
+
+
+
+
